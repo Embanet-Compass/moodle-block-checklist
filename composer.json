@@ -1,0 +1,9 @@
+ {
+    "name": "embanet-compass/moodle-block-checklist",
+    "type": "moodle-block",
+    "description": "Moodle Block Plugin",
+    "extra": {
+        "installer-name": "checklist",
+        "moodle": { "package_folder_name" : "checklist" }
+    }
+}
